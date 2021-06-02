@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
   <meta http-equiv="refresh" content="5; URL=https://youtu.be/YD-dvj5awec" />
@@ -6,5 +6,5 @@
 <body>
   <p>Bir sene once bugun...<a href="https://youtu.be/YD-dvj5awec">.....</a>.</p>
 </body>
-	</body>
+	
 </html>
